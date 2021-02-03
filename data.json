@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quotes",
+      "description": "Program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://kajuanna.github.io/Techdegree-Project-1/",
+      "github_link": "https://github.com/kajuanna/Techdegree-Project-1",
+      "image_urls": [
+        "/static/images/project1.PNG",
+        "/static/images/project12.PNG",
+        "/static/images/project13.PNG"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Student Page",
+      "description": "Pages that displaya a small portion of the data.",
+      "technologies": ["CSS", "JavaScript", "DOM", "Data Pagination"],
+      "live_link": "https://kajuanna.github.io/Techdegree-Project-2/",
+      "github_link": "https://github.com/kajuanna/Techdegree-Project-2",
+      "image_urls": [
+        "/static/images/project2.PNG",
+        "/static/images/project22.PNG",
+        "/static/images/project23.PNG"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "BuyMe",
+      "description": "Interactive form to submit.",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://kajuanna.github.io/Techdegree-Project-3/",
+      "github_link": "https://github.com/kajuanna/Techdegree-Project-3",
+      "image_urls": [
+        "/static/images/project3.PNG",
+        "/static/images/project31.PNG"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "PhraseHunter",
+      "description": "A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Player must guess the phrase before they run out of attempts.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://kajuanna.github.io/PhraseHunter/",
+      "github_link": "https://github.com/kajuanna/PhraseHunter",
+      "image_urls": [
+        "/static/images/project4.PNG",
+        "/static/images/project41.PNG",
+        "/static/images/project42.PNG"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "AwesomeStartUp",
+      "description": "Employee directory by communicating with a third-party API.",
+      "technologies": ["API", "AJAX"],
+      "live_link": "https://kajuanna.github.io/AwesomeStartUp/",
+      "github_link": "https://github.com/kajuanna/AwesomeStartUp",
+      "image_urls": [
+        "/static/images/project5.PNG",
+        "/static/images/project51.PNG"
+      ]
+    }
+  ]
+}
